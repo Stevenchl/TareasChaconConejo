@@ -1,2 +1,2 @@
 # TareasChaconConejoPineda
-Repository for "Micros" homeworks
+Repositorio para tareas de "Micros" 
